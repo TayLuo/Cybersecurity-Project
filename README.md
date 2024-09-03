@@ -1,5 +1,5 @@
 # Cybersecurity-Project
-  - [PowerShell script to Manage AD Environment](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/Create%20ADUsers.txt)
+  - [PowerShell script to Manage AD Environment]((https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell))
 - <b>Create bulk users through powershell Script</b>
   - [Create users through CSV file](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/CreateADUsersFromCSV.ps1)
  
