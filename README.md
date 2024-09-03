@@ -1,37 +1,7 @@
 # Cybersecurity-Project
-<h1>PowerShell to create users and Monitor Event Logs</h1><b>https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell</b>
-
-<h2>Phishing </h2>
-<b>The Powershell script in this repository is responsible for parsing out Windows Event Log information for failed RDP attacks and using a third party API to collect geographic information about the attackers location.
-</b>
-<br />
-<br />
-The script is used in this demo where I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot.
-We will observe live attacks (RDP Brute Force) from all around the world. I will use a custom PowerShell script to
-look up the attackers Geolocation information and plot it on an Azure Sentinel Map!
-<br />
-<br />
-
-<p align="center">
-<img src="https://i.imgur.com/3d3CEwZ.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
-</p>
-<h2>Languages Used</h2>
-
-- <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
-
-<h2>Utilities Used</h2>
-
-- <b>ipgeolocation.io:</b> IP Address to Geolocation API
-
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
-
-<p align="center">
-<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
-</p>
-
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
-
-<p align="center">
-<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
-</p>
-
+  - [PowerShell script to Manage AD Environment](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/Create%20ADUsers.txt)
+- <b>Create bulk users through powershell Script</b>
+  - [Create users through CSV file](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/CreateADUsersFromCSV.ps1)
+ 
+- <b>Security Logs Detection</b>
+  - [Monitoring Security Logs](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/EventLog%20Monitoring.txt)
