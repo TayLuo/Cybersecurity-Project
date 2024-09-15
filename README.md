@@ -5,3 +5,4 @@
   - [Automate Phishing Email Detection With Power Automate](https://github.com/TayLuo/Automate-Phishing-Email-Detection-with-Power-Automate)
   - [Deploy Windows VM -Sentinel(SIEM)](https://github.com/TayLuo/Honeypot---Sentinel)
   - [Securing Linux Server with Fail2Ban](https://github.com/TayLuo/Secure-Linux-Server-with-Fail2Ban/tree/main)
+  - [IDS With Snort](https://github.com/TayLuo/IDS-with-Snort/blob/main/README.md)
